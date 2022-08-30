@@ -1,7 +1,5 @@
 ### Hi there 👋, S M Asif Hossain
 #### Student, BSc in COmputer Science and Engineering (Final Year)
-![Student, BSc in COmputer Science and Engineering (Final Year)](https://scontent.fdac20-1.fna.fbcdn.net/v/t39.30808-6/271236197_259785612890483_4891462924737217858_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=19026a&_nc_eui2=AeFifNSOFxY0cbUXS9HwNHQtn8zXhf9cHT6fzNeF_1wdPm6OA7_JIoSRq_E1S8W_6IcZVwENULY_2N_H3IaPMA9Z&_nc_ohc=tVwqT7nDGUUAX_obBVZ&_nc_ht=scontent.fdac20-1.fna&oh=00_AT8LO7QSE__bHIXQLb5D4GhAHihyHMCt70R9UUkE0y9AtA&oe=63124CD7)
-
 Enthusiastic about learning new skills and career development to grow with increasing responsibilities.
 
 Skills: Java / C# / C++ / Python / JS / HTML / CSS
